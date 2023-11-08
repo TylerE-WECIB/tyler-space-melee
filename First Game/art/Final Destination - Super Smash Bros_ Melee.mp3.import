@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Final Destination - Super Smash Bros_ Melee.mp3-0ce70602e234f668d842dfb31e42331d.mp3str"
+
+[deps]
+
+source_file="res://art/Final Destination - Super Smash Bros_ Melee.mp3"
+dest_files=[ "res://.import/Final Destination - Super Smash Bros_ Melee.mp3-0ce70602e234f668d842dfb31e42331d.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

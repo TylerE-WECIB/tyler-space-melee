@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/FoxGrunt7.mp3-e74ce647fcca77884950232733476d7d.mp3str"
+
+[deps]
+
+source_file="res://art/FoxGrunt7.mp3"
+dest_files=[ "res://.import/FoxGrunt7.mp3-e74ce647fcca77884950232733476d7d.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

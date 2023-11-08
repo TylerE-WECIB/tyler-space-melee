@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/SSBM Shine - Sound Effect.mp3-6b2d7df69305b25cff4e567d1cc3e729.mp3str"
+
+[deps]
+
+source_file="res://art/SSBM Shine - Sound Effect.mp3"
+dest_files=[ "res://.import/SSBM Shine - Sound Effect.mp3-6b2d7df69305b25cff4e567d1cc3e729.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

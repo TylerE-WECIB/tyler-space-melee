@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/FoxGrunt5.mp3-27a6e29f44e76f8a6c72594b61a47ed0.mp3str"
+
+[deps]
+
+source_file="res://art/FoxGrunt5.mp3"
+dest_files=[ "res://.import/FoxGrunt5.mp3-27a6e29f44e76f8a6c72594b61a47ed0.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/fox_death.mp3-2e22a22024aa0ef01aed6e47b85c57d7.mp3str"
+
+[deps]
+
+source_file="res://art/fox_death.mp3"
+dest_files=[ "res://.import/fox_death.mp3-2e22a22024aa0ef01aed6e47b85c57d7.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

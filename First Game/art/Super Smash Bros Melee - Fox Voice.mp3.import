@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Super Smash Bros Melee - Fox Voice.mp3-2b1ce7e39f7f7c14a1314300cd45c41c.mp3str"
+
+[deps]
+
+source_file="res://art/Super Smash Bros Melee - Fox Voice.mp3"
+dest_files=[ "res://.import/Super Smash Bros Melee - Fox Voice.mp3-2b1ce7e39f7f7c14a1314300cd45c41c.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
